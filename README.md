@@ -1,5 +1,5 @@
 # LETS-S-PRACTICAL
-<hr>
+
 ## Experiment Learn Innovate
  When theoretical knowledge meets practical experience it creates innovation.
 # Description
