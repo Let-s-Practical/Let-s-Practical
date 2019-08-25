@@ -10,4 +10,10 @@
 ## Usage
     lets take a real life scenario- 
     There are many government colleges in West Bengal which have a great academic rank but lack proper lab equipments. There the students face a lot of problem in performing their experiments due to lack of proper equipments or outdated equipments. So this platform will not only link them to a college but will help them to understand and perform the experiment manually.
+
+## Contribution
+    Dibyojyoti Sarkar
+    Yash Sharma
+    Sushil Kumar Singh
+    Sanjay Kant Jha
     
