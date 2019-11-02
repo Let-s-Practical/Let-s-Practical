@@ -13,8 +13,9 @@ So, Hey we are here with a platform where everyone is free to book their slots f
 There are many government colleges in West Bengal which have a great academic rank but lack proper lab equipments. There the students       face a lot of problem in performing their experiments due to lack of proper equipments or outdated equipments. So this platform will       not only link them to a college but will help them to understand and perform the experiment manually.
 
 ## Contribution
+
+   + Sushil Kumar Singh (https://github.com/OddExtension5)
    + Dibyojyoti Sarkar  (https://github.com/chionmin)
    + Yash Sharma        (https://github.com/yashsharma321)
-   + Sushil Kumar Singh (https://github.com/OddExtension5)
    + Sanjay Kant Jha    (https://github.com/sanjayjha97)
     
