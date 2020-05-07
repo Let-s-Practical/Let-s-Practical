@@ -32,5 +32,5 @@ So this platform will not only link them to a college but will help them to unde
 
 ## Copyright & License
 
-Copyright (c) 2019 Let-S-Practical - Released under the MIT license
+Copyright (c) 2019 Let-S-Practical - Released under the [MIT license](https://github.com/Let-s-Practical/Let-s-Practical/blob/master/LICENSE)
     
